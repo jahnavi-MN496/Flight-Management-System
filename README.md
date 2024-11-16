@@ -64,5 +64,5 @@ Future Enhancements :
 - Integrate additional features like flight tracking or email notifications.
 
 Team Members : 
-  1. Merla Sri Veda Sai
-  2. Mandava Jahnavi Nitheesha
+  1. Mandava Jahnavi Nitheesha
+  2. Merla Sri Veda Sai
